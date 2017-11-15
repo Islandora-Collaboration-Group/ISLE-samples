@@ -58,11 +58,6 @@ libraries[pdfjs][download][url] = "https://github.com/mozilla/pdf.js.git"
 libraries[pdfjs][directory_name] = "pdfjs"
 libraries[pdfjs][type] = "library"
 
-libraries[CAS][download][type] = "get"
-libraries[CAS][download][url] = "https://developer.jasig.org/cas-clients/php/current/CAS-1.3.4.tgz"
-libraries[CAS][directory_name] = "CAS"
-libraries[CAS][type] = "library"
-
 libraries[video-js][download][type] = "get"
 libraries[video-js][download][url] = "https://github.com/videojs/video.js/archive/v4.12.15.tar.gz"
 libraries[video-js][directory_name] = "video-js"

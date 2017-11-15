@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo "Changing directory to /var/www/html"
 cd /var/www/html || exit
 
